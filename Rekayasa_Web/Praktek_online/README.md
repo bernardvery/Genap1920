@@ -1,7 +1,7 @@
 ## Praktikum Online:
 ### Materi Praktikum:
 1. [pert-1: JSON Data](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert1/pert1-JSON_Data.pdf)
-2. [pert-2: JSON Encode & Decode](http://htmlpreview.github.io/?https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert2/pert2.html)
+2. [pert-2: JSON Encode & Decode](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert2/pert2-JSON_Encode_Decode.pdf)
 3. 
 4. 
 5. 
