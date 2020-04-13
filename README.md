@@ -2,10 +2,11 @@
 Repository semester Genap 2019/2020
 
 ## Petunjuk Kuliah Online (Teori/Praktek)
-### Kuliah Teori
 1. Pengumuman/Informasi Pertemuan --> Edmodo
 2. Presensi kehadiran kuliah onine --> Edmodo (menggunakan Quis)
-3. Materi berupa bahan ajar (slide-pdf), Referensi (pdf), ebook --> Repository (Github)
+3. Materi berupa bahan ajar (slide-pdf), Tutorial (video), Referensi (pdf), ebook (pdf)--> Repository (Github)
+4. Kirim Tugas, Project, Latihan --> Edmodo (menggunakan Assignment/Quis)
+5. Uji coba script praktek pada modul praktikum --> compiler online/compiler offline (Localhost/laptop)
 
 ## Kode Edmodo kelas online (Teori)
 1. Rekayasa-Web_Senin/10.00/Q.3.2 --> nd3gsb
@@ -45,7 +46,12 @@ Repository semester Genap 2019/2020
 3. [https://www.jdoodle.com/](https://www.jdoodle.com/)
 
 ## Petunjuk Praktikum Online
-### Praktikum Rekayasa Web
+### Praktikum Rekayasa Web, Pemrograman Framework & Pemrograman Web
 1. Untuk mencoba script pada modul praktek, Anda bisa menggunakan compiler PHP online pada poin sebelum ini, atau Anda gunakan compiler PHP milik Anda sendiri yang Anda install pada laptop/localhost menggunakan XAMPP.
-2. Untuk mengerjakan latihan praktikum yang membutuhkan MySQL sebagai databasenya, Anda gunakan MySQL+PHP+Apache pada laptop/localhost Anda sendiri.
+2. Untuk mengerjakan latihan praktikum yang membutuhkan MySQL sebagai databasenya dan Apache sebagai WebServer, Anda gunakan MySQL+PHP+Apache pada laptop/localhost Anda sendiri.
+3. Submit hasil latihan praktikum menggunakan Edmodo (Assignment)
 
+### Praktikum Open Source System
+1. 
+2. 
+3. 
