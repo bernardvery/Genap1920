@@ -1,6 +1,12 @@
 # Genap1920
 Repository semester Genap 2019/2020
 
+## Petunjuk Kuliah Online (Teori/Praktek)
+### Kuliah Teori
+1. Pengumuman/Informasi Pertemuan --> Edmodo
+2. Presensi kehadiran kuliah onine --> Edmodo (menggunakan Quis)
+3. Materi berupa bahan ajar (slide-pdf), Referensi (pdf), ebook --> Repository (Github)
+
 ## Kode Edmodo kelas online (Teori)
 1. Rekayasa-Web_Senin/10.00/Q.3.2 --> nd3gsb
 2. Rekayasa-Web_Senin/12.00/Q.3.2 --> 8t8vva
@@ -37,3 +43,9 @@ Repository semester Genap 2019/2020
 1. [https://repl.it/languages](https://repl.it/languages)
 2. [https://www.tutorialspoint.com/codingground.htm](https://www.tutorialspoint.com/codingground.htm)
 3. [https://www.jdoodle.com/](https://www.jdoodle.com/)
+
+## Petunjuk Praktikum Online
+### Praktikum Rekayasa Web
+1. Untuk mencoba script pada modul praktek, Anda bisa menggunakan compiler PHP online pada poin sebelum ini, atau Anda gunakan compiler PHP milik Anda sendiri yang Anda install pada laptop/localhost menggunakan XAMPP.
+2. Untuk mengerjakan latihan praktikum yang membutuhkan MySQL sebagai databasenya, Anda gunakan MySQL+PHP+Apache pada laptop/localhost Anda sendiri.
+
