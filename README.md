@@ -50,8 +50,3 @@ Repository semester Genap 2019/2020
 1. Untuk mencoba script pada modul praktek, Anda bisa menggunakan compiler PHP online pada poin sebelum ini, atau Anda gunakan compiler PHP milik Anda sendiri yang Anda install pada laptop/localhost menggunakan XAMPP.
 2. Untuk mengerjakan latihan praktikum yang membutuhkan MySQL sebagai databasenya dan Apache sebagai WebServer, Anda gunakan MySQL+PHP+Apache pada laptop/localhost Anda sendiri.
 3. Submit hasil latihan praktikum menggunakan Edmodo (Assignment)
-
-### Praktikum Open Source System
-1. 
-2. 
-3. 
