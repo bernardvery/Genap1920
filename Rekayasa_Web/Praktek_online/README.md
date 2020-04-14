@@ -2,12 +2,12 @@
 ### Materi Praktikum:
 1. [pert-1: JSON Data](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert1/pert1-JSON_Data.pdf)
 2. [pert-2: JSON Encode & Decode](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert2/pert2-JSON_Encode_Decode.pdf)
-3. 
-4. 
-5. 
+3. [pert-3: Membuat Class Rest](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert3/pert3_PHP-CRUD-REST-API_Membuat-class-rest.pdf)
+4. [pert-4: Membuat API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert4/pert4_PHP-CRUD-REST-API_Membuat-api-crud.pdf)
+5. [pert-5: Ujicoba API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert5/pert5_PHP-CRUD-REST-API_Mencoba-api-crud.pdf)
 6. 
 7. 
-8. 
+8. UAS
 
 ## Petunjuk Kuliah Online (Praktek)
 1. Pengumuman/Informasi Pertemuan --> Edmodo
