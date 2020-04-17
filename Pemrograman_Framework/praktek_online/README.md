@@ -1,12 +1,12 @@
 ## Praktikum Online:
 ### Materi Praktikum:
-1. [pert-1: JSON Data](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert1/pert1-JSON_Data.pdf)
-2. [pert-2: JSON Encode & Decode](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert2/pert2-JSON_Encode_Decode.pdf)
-3. [pert-3: Membuat Class Rest](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert3/pert3_PHP-CRUD-REST-API_Membuat-class-rest.pdf)
-4. [pert-4: Membuat API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert4/pert4_PHP-CRUD-REST-API_Membuat-api-crud.pdf)
-5. [pert-5: Ujicoba API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert5/pert5_PHP-CRUD-REST-API_Mencoba-api-crud.pdf)
-6. [pert-6: Membuat aplikasi Client dengan Codeigniter+Harviacode]
-7. [pert-7: Memodifikasi Rest & API CRUD (Server), Memodifikasi Model (Client) untuk akses API]
+1. [pert-1: Instalasi CI (modul-1)] 
+2. [pert-2: Database, Model -> Buku (modul-2)]
+3. [pert-3: View, Controller -> Buku (modul-3)]
+4. [pert-4: Library Form Validation -> Buku (modul-6)]
+5. [pert-5: Library Pagination -> Buku (modul-7]
+6. [pert-6: Pengembangan-1: Anggota]
+7. [pert-7: Pengembangan-2: Transaksi Pinjam]
 8. UAS
 
 ## Petunjuk Kuliah Online (Praktek)
