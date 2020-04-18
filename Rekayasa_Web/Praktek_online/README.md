@@ -6,7 +6,7 @@
 4. [pert-4: Membuat API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert4/pert4_PHP-CRUD-REST-API_Membuat-api-crud.pdf)
 5. [pert-5: Ujicoba API Crud](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert5/pert5_PHP-CRUD-REST-API_Mencoba-api-crud.pdf)
 6. [pert-6: Membuat aplikasi Client dengan Codeigniter+Harviacode](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert6/pert6_Aplikasi-Client_Codeigniter-Harviacode.pdf)
-7. [pert-7: Memodifikasi Rest & API CRUD (Server), Memodifikasi Model (Client) untuk akses API]
+7. [pert-7: Memodifikasi Rest & API CRUD (Server), Memodifikasi Model (Client) untuk akses API](https://github.com/bernardvery/Genap1920/blob/master/Rekayasa_Web/Praktek_online/pert7/pert7_Memodifikasi-Rest-dan-Model-untuk-akses-API.pdf)
 8. UAS
 
 ## Petunjuk Kuliah Online (Praktek)
