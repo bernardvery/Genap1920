@@ -1,12 +1,12 @@
 ## Praktikum Online:
 ### Materi Praktikum:
-1. [pert-1: Form-Kondisi-Perulangan-Upload]
-2. [pert-2: Review-HTML-PHP]
-3. [pert-3: Database-Tabel-Koneksi]
-4. [pert-4: CRUD-mysqli]
-5. [pert-5: Login-Session]
-6. [pert-6: Pengembangan-1: Mata Kuliah]
-7. [pert-7: Pengembangan-2: Transaksi Jadwal]
+1. [pert-1: Form-Kondisi-Perulangan-Upload](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Web/praktek_online/Modul-1_Form-Kondisi-Perulangan-Upload.pdf)
+2. [pert-2: Review-HTML-PHP](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Web/praktek_online/Modul-2_Review-HTML-PHP.pdf)
+3. [pert-3: Database-Tabel-Koneksi](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Web/praktek_online/Modul-3_Database-Tabel-Koneksi.pdf)
+4. [pert-4: CRUD-mysqli](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Web/praktek_online/Modul-4_CRUD-mysqli.pdf)
+5. [pert-5: Login-Session](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Web/praktek_online/Modul-5_Login-Session.pdf)
+6. pert-6: Pengembangan-1: Mata Kuliah
+7. pert-7: Pengembangan-2: Transaksi Jadwal
 8. UAS
 
 ## Petunjuk Kuliah Online (Praktek)

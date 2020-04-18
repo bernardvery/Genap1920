@@ -1,12 +1,12 @@
 ## Praktikum Online:
 ### Materi Praktikum:
-1. [pert-1: Instalasi CI (modul-1)] 
-2. [pert-2: Database, Model -> Buku (modul-2)]
-3. [pert-3: View, Controller -> Buku (modul-3)]
-4. [pert-4: Library Form Validation -> Buku (modul-6)]
-5. [pert-5: Library Pagination -> Buku (modul-7]
-6. [pert-6: Pengembangan-1: Anggota]
-7. [pert-7: Pengembangan-2: Transaksi Pinjam]
+1. [pert-1: Instalasi CI (modul-1)](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-1_Instalasi-CI.pdf) 
+2. [pert-2: Database, Model -> Buku (modul-2)](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-2_Database-Model-Buku.pdf)
+3. [pert-3: View, Controller -> Buku (modul-3)](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-3_View-Controller-Buku.pdf)
+4. [pert-4: Library Form Validation -> Buku (modul-6)](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-6_Class-Form-Validation.pdf)
+5. [pert-5: Library Pagination -> Buku (modul-7](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-7_Class-Pagination.pdf)
+6. [pert-6: Pengembangan-1: Anggota](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-4_Pengembangan-Anggota.pdf)
+7. [pert-7: Pengembangan-2: Transaksi Pinjam](https://github.com/bernardvery/Genap1920/blob/master/Pemrograman_Framework/praktek_online/modul-5-1_Penjelasan-Modul-5.pdf)
 8. UAS
 
 ## Petunjuk Kuliah Online (Praktek)
