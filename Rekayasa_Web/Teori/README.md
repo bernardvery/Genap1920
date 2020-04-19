@@ -1,4 +1,4 @@
-## Praktikum Online:
+## Materi:
 1. [XML_JSON](https://github.com/bernardvery/Genap1920/tree/master/Rekayasa_Web/Teori/XML_JSON)
 2. [Konsep HTTPS](https://github.com/bernardvery/Genap1920/tree/master/Rekayasa_Web/Teori/Konsep_HTTP)
 3. [JSON Encode & Decode](https://github.com/bernardvery/Genap1920/tree/master/Rekayasa_Web/Teori/Method_%26_Code-HTTP)
